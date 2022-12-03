@@ -116,7 +116,7 @@ alt: "Group of Horses Running",
 <input type="text" id="name-input" placeholder="Please enter your name" />
 <h1>Hello, <span id="name-output">Anonymous</span>!</h1> -->
 
-Завдання 6
+<!-- Завдання 6
 Напиши скрипт, який під час втрати фокусу на інпуті (подія blur), перевіряє його вміст щодо правильної кількості введених символів.
 
 <input
@@ -140,7 +140,7 @@ border-color: #4caf50;
 
 #validation-input.invalid {
 border-color: #f44336;
-}
+} -->
 
 Завдання 7
 Напиши скрипт, який реагує на зміну значення input#font-size-control (подія input) і змінює інлайн-стиль span#text, оновлюючи властивість font-size. В результаті, перетягуючи повзунок, буде змінюватися розмір тексту.
