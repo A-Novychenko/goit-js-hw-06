@@ -1,6 +1,6 @@
 # goit-js-hw-06
 
-Завдання 1
+<!-- Завдання 1
 HTML містить список категорій ul#categories.
 
 <ul id="categories">
@@ -48,7 +48,7 @@ Category: Products
 Elements: 3
 
 Category: Technologies
-Elements: 5
+Elements: 5 -->
 
 Завдання 2
 HTML містить порожній список ul#ingredients.
@@ -72,6 +72,7 @@ const ingredients = [
 Додасть назву інгредієнта як його текстовий вміст.
 Додасть елементу клас item.
 Після чого, вставить усі <li> за одну операцію у список ul#ingredients.
+
 Завдання 3
 Напиши скрипт для створення галереї зображень на підставі масиву даних. HTML містить список ul.gallery.
 
